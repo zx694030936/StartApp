@@ -16,8 +16,10 @@ import android.widget.Button;
 public class MainActivity extends BaseFragmentActivity {
     Dialog dia;
     Dialog dia1;
+
     Dialog dia2;
     Dialog dia3;
+    private int d1=34;
     private int d=34;
     private UpBar mUpbar;
     @Override
