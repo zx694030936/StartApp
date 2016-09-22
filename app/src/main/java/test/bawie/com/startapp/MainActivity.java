@@ -15,6 +15,9 @@ import android.widget.Button;
 
 public class MainActivity extends BaseFragmentActivity {
     Dialog dia;
+    Dialog dia1;
+    Dialog dia2;
+    Dialog dia3;
     private UpBar mUpbar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
