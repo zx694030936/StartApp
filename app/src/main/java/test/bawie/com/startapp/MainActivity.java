@@ -18,6 +18,7 @@ public class MainActivity extends BaseFragmentActivity {
     Dialog dia1;
     Dialog dia2;
     Dialog dia3;
+    private int d=34;
     private UpBar mUpbar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
